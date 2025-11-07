@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yazeedb94.github.io/NexaBot/",
+  "homepage": "https://yazeedb94.github.io/NexaBot1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
